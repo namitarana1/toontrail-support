@@ -1,4 +1,4 @@
-# Pocket Splash support and privacy
+# ReefRinger support and privacy
 
 Static pages hosted within the existing ToonTrail support repository. No app source, diagnostics or private configuration is published.
 
